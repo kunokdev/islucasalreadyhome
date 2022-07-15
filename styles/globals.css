@@ -12,5 +12,17 @@ a {
 }
 
 * {
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
+}
+
+main {
+  margin-top: 10%;
+}
+
+h1,
+h2 {
+  margin-top: 1em;
+  text-align: center;
 }
